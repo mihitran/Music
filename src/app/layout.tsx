@@ -3,7 +3,6 @@ import "./globals.css";
 import { Sider } from "./components/sider/Sider";
 import { Play } from "./components/play/Play";
 import { Suspense } from "react";
-import SearchPage from "./pages/search/page";
 import { Search } from "./components/search/Search";
 
 export const metadata: Metadata = {
